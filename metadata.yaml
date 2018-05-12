@@ -1,4 +1,5 @@
 _repo: Longhead-The-Story-of-the-First-Fire_47845
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Bull, Charles Livingston
@@ -6,12 +7,17 @@ contributor:
     deathdate: 1932
     gutenberg_agent_id: '9742'
     url: http://www.gutenberg.org/2009/agents/9742
+covers:
+- cover_type: archival
+  image_path: 47845-h/images/cover.jpg
 creator:
   author:
     agent_name: Robinson, C. H.
     gutenberg_agent_id: '44499'
     url: http://www.gutenberg.org/2009/agents/44499
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47845#Longhead-The-Story-of-the-First-Fire
 gutenberg_issued: '2015-01-01'
 gutenberg_type: Text
 identifiers:
